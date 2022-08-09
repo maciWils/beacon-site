@@ -1,0 +1,16 @@
+body {
+    background-color: #FACE1F;
+
+}
+
+.background {
+    width: 98vw;
+    height: 98vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo {
+    width: 50vw;
+}
